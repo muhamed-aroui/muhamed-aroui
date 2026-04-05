@@ -15,7 +15,7 @@ AI Engineer helping companies build production-ready multi-agent AI systems that
 | Project | Description |
 |---------|-------------|
 | **[ReCall-AI](https://devpost.com/software/recall-gjvuai)** 🏆 *DivHacks Winner* | AI Receptionist that uses a ReAct-loop agent to schedule meetings via Google Calendar and log call metadata to Supabase. Handled 100 test calls over 2 hrs with zero misses. `Python` `LiveKit` `PostgreSQL` `ElevenLabs` |
-| **[Deep Learning Library](https://github.com/muhamed-aroui/deep-learning-library)** | Modular deep-learning framework built from scratch — includes vectorized forward/backward passes, conv layers, activation functions, and MSE/BCE losses. Validated on CIFAR-10/MNIST within ±3% of PyTorch baselines. `Python` |
+| **[Deep Learning Library](https://github.com/muhamed-aroui/Neural_Network_DIY)** | Modular deep-learning framework built from scratch — includes vectorized forward/backward passes, conv layers, activation functions, and MSE/BCE losses. Validated on CIFAR-10/MNIST within ±3% of PyTorch baselines. `Python` |
 
 <!-- Add more projects here as you build them! -->
 
