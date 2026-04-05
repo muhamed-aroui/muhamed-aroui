@@ -6,14 +6,8 @@ AI Engineer helping companies build production-ready multi-agent AI systems that
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,aws,docker,git,fastapi,postgres,vercel&theme=light)](https://skillicons.dev)
 ---
 
 ### 🚀 Featured Projects
@@ -27,16 +21,11 @@ AI Engineer helping companies build production-ready multi-agent AI systems that
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamed-aroui&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamed-aroui&theme=default&hide_border=true" height="160" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aroui/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/umoeria)
+<a href="https://www.linkedin.com/in/mohammed-aroui/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/umoeria" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+</a>
